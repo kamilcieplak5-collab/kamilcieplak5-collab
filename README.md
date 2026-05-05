@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Cześć, jestem Kamil!
 
-<!--
-**kamilcieplak5-collab/kamilcieplak5-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Uczę się programowania | 🇵🇱 Polska
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Czego się uczę
+- Python
+- Web Development
+- Git & GitHub
+
+### 🛠️ Narzędzia
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+### 📊 Statystyki GitHub
+![Stats](https://github-readme-stats.vercel.app/api?username=kamilcieplak5-collab&show_icons=true&theme=radical&hide_border=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamilcieplak5-collab&layout=compact&theme=radical&hide_border=true)
+
+### 📫 Kontakt
+✉️ kamilcieplak5@gmail.com
+
+---
+
+*"Każdy ekspert był kiedyś początkującym."* 🌟
