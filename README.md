@@ -18,7 +18,7 @@
 ### 🛠️ Narzędzia
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ### 📊 Statystyki GitHub
@@ -30,6 +30,9 @@
 
 ### 🐍 Contributions Snake
 ![Snake](https://raw.githubusercontent.com/kamilcieplak5-collab/kamilcieplak5-collab/output/github-snake.svg)
+
+### 🤖 Freebuff (darmowy agent w terminalu)
+[Zaproszenie / invite](https://freebuff.com/web/?ref=ref-2cc5fc09-d3c9-4c81-aaa7-6b0b40c0eace)
 
 ### 📫 Kontakt
 ✉️ kamilcieplak5@gmail.com
